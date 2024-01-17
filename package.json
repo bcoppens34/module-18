@@ -1,0 +1,23 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "Bootcamp Module 18: NoSQL Challenge - Social Network API",
+  "main": "index.js",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "dateformat": "^5.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.12.3",
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  },
+  "keywords": [],
+  "author": "Brett Coppens"
+}
